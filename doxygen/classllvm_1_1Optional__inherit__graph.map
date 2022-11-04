@@ -1,0 +1,47 @@
+<map id="llvm::Optional&lt; T &gt;" name="llvm::Optional&lt; T &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1FailureOr.html" title="This class provides support for representing a failure result, or a valid value of type T..." alt="" coords="517,27,669,54"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::Regex \&gt;" alt="" coords="513,78,672,120"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::vector\&lt; mlir::lsp\l::Diagnostic \&gt; \&gt;" alt="" coords="518,144,667,200"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::ConstantIntRanges \&gt;" alt="" coords="509,225,677,266"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; int64_t \&gt;" alt="" coords="498,291,687,318"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::Location \&gt;" alt="" coords="515,342,670,384"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::linalg::LinalgLoopDistribution\lOptions \&gt;" alt="" coords="483,408,703,464"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::OperationName \&gt;" alt="" coords="515,489,670,530"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::vector\&lt; mlir::lsp\l::DiagnosticRelatedInformation \&gt; \&gt;" alt="" coords="465,555,720,611"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; PassDisplay\lMode \&gt;" alt="" coords="489,636,696,677"/>
+<area shape="rect" id="node12" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::pair\&lt; unsigned, unsigned \&gt; \&gt;" alt="" coords="479,701,706,742"/>
+<area shape="rect" id="node13" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; pybind11\l::tuple \&gt;" alt="" coords="498,766,687,808"/>
+<area shape="rect" id="node14" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::string \&gt;" alt="" coords="518,832,667,873"/>
+<area shape="rect" id="node15" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; StringRef \&gt;" alt="" coords="491,898,694,924"/>
+<area shape="rect" id="node16" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::Diagnostic \&gt;" alt="" coords="515,949,670,990"/>
+<area shape="rect" id="node17" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::detail::PassExecutionState \&gt;" alt="" coords="484,1014,701,1056"/>
+<area shape="rect" id="node18" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::SmallBitVector \&gt;" alt="" coords="513,1080,672,1121"/>
+<area shape="rect" id="node19" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::DenseSet\&lt; unsigned \&gt; \&gt;" alt="" coords="495,1145,691,1186"/>
+<area shape="rect" id="node20" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; int \&gt;" alt="" coords="512,1211,673,1238"/>
+<area shape="rect" id="node21" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; AllocationFn \&gt;" alt="" coords="481,1262,705,1288"/>
+<area shape="rect" id="node22" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::Attribute \&gt;" alt="" coords="515,1313,670,1354"/>
+<area shape="rect" id="node23" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; CopyCallbackFn \&gt;" alt="" coords="469,1379,717,1406"/>
+<area shape="rect" id="node24" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; DeallocationFn \&gt;" alt="" coords="472,1430,713,1456"/>
+<area shape="rect" id="node25" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::pdll::ast::Diagnostic \&gt;" alt="" coords="505,1481,680,1522"/>
+<area shape="rect" id="node26" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::lsp::WorkspaceEdit \&gt;" alt="" coords="509,1546,677,1588"/>
+<area shape="rect" id="node27" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::lsp::MarkupContent \&gt;" alt="" coords="507,1612,678,1653"/>
+<area shape="rect" id="node28" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::AsmResourceBlob \&gt;" alt="" coords="511,1677,674,1718"/>
+<area shape="rect" id="node29" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::tblgen::TypeConstraint \&gt;" alt="" coords="497,1742,688,1784"/>
+<area shape="rect" id="node30" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; uint16_t \&gt;" alt="" coords="494,1808,691,1835"/>
+<area shape="rect" id="node31" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; AllocBuffer\lCallbackFn \&gt;" alt="" coords="493,1860,693,1901"/>
+<area shape="rect" id="node32" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; unsigned \&gt;" alt="" coords="491,1926,694,1952"/>
+<area shape="rect" id="node33" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; bool \&gt;" alt="" coords="507,1976,679,2003"/>
+<area shape="rect" id="node34" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::python::PyObjectRef \&gt;" alt="" coords="504,2028,681,2069"/>
+<area shape="rect" id="node35" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; DeallocBuffer\lCallbackFn \&gt;" alt="" coords="484,2093,701,2134"/>
+<area shape="rect" id="node36" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::ParseResult \&gt;" alt="" coords="515,2158,670,2200"/>
+<area shape="rect" id="node37" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; spirv\l::FuncOp \&gt;" alt="" coords="512,2224,673,2265"/>
+<area shape="rect" id="node38" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::spirv::DebugLine \&gt;" alt="" coords="515,2289,670,2330"/>
+<area shape="rect" id="node39" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; DagAndConstant \&gt;" alt="" coords="466,2355,719,2382"/>
+<area shape="rect" id="node40" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; ResultT \&gt;" alt="" coords="497,2406,689,2432"/>
+<area shape="rect" id="node41" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::CodeGenOpt::Level \&gt;" alt="" coords="507,2457,678,2498"/>
+<area shape="rect" id="node42" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; MlirDiagnostic\lHandlerID \&gt;" alt="" coords="481,2522,704,2564"/>
+<area shape="rect" id="node43" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; MemCpyFn \&gt;" alt="" coords="485,2588,701,2615"/>
+<area shape="rect" id="node44" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::lsp::TextEdit \&gt;" alt="" coords="515,2640,670,2681"/>
+<area shape="rect" id="node45" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::lsp::Range \&gt;" alt="" coords="515,2705,670,2746"/>
+<area shape="rect" id="node46" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; TraceLevel \&gt;" alt="" coords="486,2771,699,2798"/>
+</map>

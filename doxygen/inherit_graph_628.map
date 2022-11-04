@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1AsmDialectResourceHandle.html" title="This class represents an opaque handle to a dialect resource entry. " alt="" coords="5,64,196,105"/>
+<area shape="rect" id="node2" href="$classmlir_1_1AsmDialectResourceHandleBase.html" title="mlir::AsmDialectResource\lHandleBase\&lt; DialectResourceBlob\lHandle\&lt; DialectT \&gt;, DialectResource\lBlobManager::BlobEntry, DialectT \&gt;" alt="" coords="244,5,509,76"/>
+<area shape="rect" id="node4" href="$classmlir_1_1AsmDialectResourceHandleBase.html" title="This class represents a CRTP base class for dialect resource handles. " alt="" coords="281,101,472,157"/>
+<area shape="rect" id="node3" href="$structmlir_1_1DialectResourceBlobHandle.html" title="This class defines a dialect specific handle to a resource blob. " alt="" coords="557,20,748,61"/>
+</map>

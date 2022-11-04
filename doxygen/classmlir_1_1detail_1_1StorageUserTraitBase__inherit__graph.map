@@ -1,0 +1,6 @@
+<map id="mlir::detail::StorageUserTraitBase&lt; ConcreteType, TraitType &gt;" name="mlir::detail::StorageUserTraitBase&lt; ConcreteType, TraitType &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1AttributeTrait_1_1IsDynamicAttr.html" title="mlir::AttributeTrait\l::IsDynamicAttr\&lt; ConcreteType,\l IsDynamicAttr \&gt;" alt="" coords="459,5,690,61"/>
+<area shape="rect" id="node3" href="$classmlir_1_1TypeTrait_1_1IsDynamicType.html" title="mlir::TypeTrait::IsDynamic\lType\&lt; ConcreteType, IsDynamicType \&gt;" alt="" coords="436,86,713,127"/>
+<area shape="rect" id="node4" href="$classmlir_1_1detail_1_1StorageUserTraitBase.html" title="mlir::detail::StorageUser\lTraitBase\&lt; ConcreteType,\l IsMutable \&gt;" alt="" coords="480,152,669,208"/>
+<area shape="rect" id="node5" href="$structmlir_1_1detail_1_1StorageUserTrait_1_1IsMutable.html" title="This trait is used to determine if a storage user, like Type, is mutable or not. " alt="" coords="763,159,1001,201"/>
+</map>

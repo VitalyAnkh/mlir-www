@@ -1,0 +1,4 @@
+<map id="include/mlir/Dialect/Arith/Transforms/WideIntEmulationConverter.h" name="include/mlir/Dialect/Arith/Transforms/WideIntEmulationConverter.h">
+<area shape="rect" id="node2" href="$Arith_2Transforms_2EmulateWideInt_8cpp.html" title="lib/Dialect/Arith/Transforms\l/EmulateWideInt.cpp" alt="" coords="5,109,204,151"/>
+<area shape="rect" id="node3" href="$MemRef_2Transforms_2EmulateWideInt_8cpp.html" title="lib/Dialect/MemRef\l/Transforms/EmulateWideInt.cpp" alt="" coords="228,109,461,151"/>
+</map>

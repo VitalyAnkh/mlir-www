@@ -1,0 +1,7 @@
+<map id="mlir::AllocLikeOpLLVMLowering" name="mlir::AllocLikeOpLLVMLowering">
+<area shape="rect" id="node2" href="$structmlir_1_1AllocationOpLLVMLowering.html" title="Lowering for memory allocation ops. " alt="" coords="5,304,236,331"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ConvertToLLVMPattern.html" title="Base class for operation conversions targeting the LLVM IR dialect. " alt="" coords="21,229,221,256"/>
+<area shape="rect" id="node4" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="33,155,208,181"/>
+<area shape="rect" id="node5" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="45,80,196,107"/>
+<area shape="rect" id="node6" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="69,5,172,32"/>
+</map>

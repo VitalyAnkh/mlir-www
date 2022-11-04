@@ -1,0 +1,5 @@
+<map id="mlir::AsmDialectResourceHandle" name="mlir::AsmDialectResourceHandle">
+<area shape="rect" id="node2" href="$classmlir_1_1AsmDialectResourceHandleBase.html" title="mlir::AsmDialectResource\lHandleBase\&lt; DialectResourceBlob\lHandle\&lt; DialectT \&gt;, DialectResource\lBlobManager::BlobEntry, DialectT \&gt;" alt="" coords="711,5,976,76"/>
+<area shape="rect" id="node4" href="$classmlir_1_1AsmDialectResourceHandleBase.html" title="This class represents a CRTP base class for dialect resource handles. " alt="" coords="245,46,436,102"/>
+<area shape="rect" id="node3" href="$structmlir_1_1DialectResourceBlobHandle.html" title="This class defines a dialect specific handle to a resource blob. " alt="" coords="1025,20,1216,61"/>
+</map>

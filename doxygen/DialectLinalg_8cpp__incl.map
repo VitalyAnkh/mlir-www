@@ -1,0 +1,12 @@
+<map id="lib/Bindings/Python/DialectLinalg.cpp" name="lib/Bindings/Python/DialectLinalg.cpp">
+<area shape="rect" id="node2" href="$c_2Dialect_2Linalg_8h.html" title="mlir&#45;c/Dialect/Linalg.h" alt="" coords="110,348,274,375"/>
+<area shape="rect" id="node3" href="$c_2IR_8h.html" title="mlir&#45;c/IR.h" alt="" coords="603,430,691,457"/>
+<area shape="rect" id="node9" href="$PybindAdaptors_8h.html" title="mlir/Bindings/Python\l/PybindAdaptors.h" alt="" coords="511,95,668,136"/>
+<area shape="rect" id="node6" href="$c_2Support_8h.html" title="mlir&#45;c/Support.h" alt="" coords="458,512,583,539"/>
+<area shape="rect" id="node13" href="$Interop_8h.html" title="mlir&#45;c/Bindings/Python\l/Interop.h" alt="" coords="682,184,850,225"/>
+<area shape="rect" id="node15" href="$c_2AffineExpr_8h.html" title="mlir&#45;c/AffineExpr.h" alt="" coords="778,348,919,375"/>
+<area shape="rect" id="node16" href="$c_2AffineMap_8h.html" title="mlir&#45;c/AffineMap.h" alt="" coords="685,273,825,300"/>
+<area shape="rect" id="node17" href="$c_2ExecutionEngine_8h.html" title="mlir&#45;c/ExecutionEngine.h" alt="" coords="298,348,481,375"/>
+<area shape="rect" id="node18" href="$c_2IntegerSet_8h.html" title="mlir&#45;c/IntegerSet.h" alt="" coords="901,273,1044,300"/>
+<area shape="rect" id="node19" href="$include_2mlir-c_2Pass_8h.html" title="mlir&#45;c/Pass.h" alt="" coords="506,348,610,375"/>
+</map>

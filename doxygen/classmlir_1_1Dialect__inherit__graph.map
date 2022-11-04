@@ -1,0 +1,4 @@
+<map id="mlir::Dialect" name="mlir::Dialect">
+<area shape="rect" id="node2" href="$classmlir_1_1ExtensibleDialect.html" title="A dialect that can be extended with new operations/types/attributes at runtime. " alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1DynamicDialect.html" title="A dialect that can be defined at runtime. " alt="" coords="11,155,171,181"/>
+</map>

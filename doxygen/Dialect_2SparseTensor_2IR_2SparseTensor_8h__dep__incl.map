@@ -1,0 +1,21 @@
+<map id="include/mlir/Dialect/SparseTensor/IR/SparseTensor.h" name="include/mlir/Dialect/SparseTensor/IR/SparseTensor.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="5,109,212,136"/>
+<area shape="rect" id="node4" href="$SparseTensor_8cpp.html" title="lib/CAPI/Dialect/SparseTensor.cpp" alt="" coords="236,109,475,136"/>
+<area shape="rect" id="node5" href="$BufferizationOps_8cpp.html" title="lib/Dialect/Bufferization\l/IR/BufferizationOps.cpp" alt="" coords="499,102,678,143"/>
+<area shape="rect" id="node6" href="$LinalgOps_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgOps.cpp" alt="" coords="703,102,837,143"/>
+<area shape="rect" id="node7" href="$ElementwiseOpFusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ElementwiseOpFusion.cpp" alt="" coords="862,102,1134,143"/>
+<area shape="rect" id="node8" href="$SparseTensorDialect_8cpp.html" title="lib/Dialect/SparseTensor\l/IR/SparseTensorDialect.cpp" alt="" coords="1158,102,1361,143"/>
+<area shape="rect" id="node9" href="$SparseTensorPipelines_8cpp.html" title="lib/Dialect/SparseTensor\l/Pipelines/SparseTensorPipelines.cpp" alt="" coords="1385,102,1646,143"/>
+<area shape="rect" id="node10" href="$SparseTensor_2Transforms_2BufferizableOpInterfaceImpl_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/BufferizableOpInterface\lImpl.cpp" alt="" coords="1670,95,1926,151"/>
+<area shape="rect" id="node11" href="$CodegenUtils_8h.html" title="lib/Dialect/SparseTensor\l/Transforms/CodegenUtils.h" alt="" coords="2052,102,2253,143"/>
+<area shape="rect" id="node13" href="$SparseBufferRewriting_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseBufferRewriting.cpp" alt="" coords="1315,199,1588,240"/>
+<area shape="rect" id="node14" href="$SparseTensorCodegen_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorCodegen.cpp" alt="" coords="1611,199,1883,240"/>
+<area shape="rect" id="node15" href="$SparseTensorConversion_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorConversion.cpp" alt="" coords="2147,199,2435,240"/>
+<area shape="rect" id="node16" href="$SparseTensorRewriting_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorRewriting.cpp" alt="" coords="2460,199,2736,240"/>
+<area shape="rect" id="node17" href="$Sparsification_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/Sparsification.cpp" alt="" coords="2760,199,2977,240"/>
+<area shape="rect" id="node18" href="$DenseBufferizationPass_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/DenseBufferization\lPass.cpp" alt="" coords="2430,95,2657,151"/>
+<area shape="rect" id="node19" href="$Dialect_2SparseTensor_2Transforms_2SparseTensorPasses_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorPasses.cpp" alt="" coords="2681,102,2939,143"/>
+<area shape="rect" id="node20" href="$Merger_8cpp.html" title="lib/Dialect/SparseTensor\l/Utils/Merger.cpp" alt="" coords="2963,102,3142,143"/>
+<area shape="rect" id="node3" href="$CAPI_2RegisterEverything_2RegisterEverything_8cpp.html" title="lib/CAPI/RegisterEverything\l/RegisterEverything.cpp" alt="" coords="9,199,208,240"/>
+<area shape="rect" id="node12" href="$CodegenUtils_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/CodegenUtils.cpp" alt="" coords="1907,199,2123,240"/>
+</map>

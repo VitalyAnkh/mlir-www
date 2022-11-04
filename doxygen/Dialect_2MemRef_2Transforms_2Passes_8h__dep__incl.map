@@ -1,0 +1,12 @@
+<map id="include/mlir/Dialect/MemRef/Transforms/Passes.h" name="include/mlir/Dialect/MemRef/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="6,109,203,136"/>
+<area shape="rect" id="node4" href="$MemRefTransformOps_8cpp.html" title="lib/Dialect/MemRef\l/TransformOps/MemRefTransform\lOps.cpp" alt="" coords="228,95,467,151"/>
+<area shape="rect" id="node5" href="$MemRef_2Transforms_2EmulateWideInt_8cpp.html" title="lib/Dialect/MemRef\l/Transforms/EmulateWideInt.cpp" alt="" coords="491,102,724,143"/>
+<area shape="rect" id="node6" href="$MemRef_2Transforms_2ExpandOps_8cpp.html" title="lib/Dialect/MemRef\l/Transforms/ExpandOps.cpp" alt="" coords="749,102,951,143"/>
+<area shape="rect" id="node7" href="$FoldMemRefAliasOps_8cpp.html" title="lib/Dialect/MemRef\l/Transforms/FoldMemRefAlias\lOps.cpp" alt="" coords="976,95,1191,151"/>
+<area shape="rect" id="node8" href="$MultiBuffer_8cpp.html" title="lib/Dialect/MemRef\l/Transforms/MultiBuffer.cpp" alt="" coords="1215,102,1413,143"/>
+<area shape="rect" id="node9" href="$NormalizeMemRefs_8cpp.html" title="lib/Dialect/MemRef\l/Transforms/NormalizeMemRefs.cpp" alt="" coords="1438,102,1694,143"/>
+<area shape="rect" id="node10" href="$ResolveShapedTypeResultDims_8cpp.html" title="lib/Dialect/MemRef\l/Transforms/ResolveShapedType\lResultDims.cpp" alt="" coords="1719,95,1949,151"/>
+<area shape="rect" id="node11" href="$SimplifyExtractStridedMetadata_8cpp.html" title="lib/Dialect/MemRef\l/Transforms/SimplifyExtract\lStridedMetadata.cpp" alt="" coords="1974,95,2177,151"/>
+<area shape="rect" id="node3" href="$CAPI_2RegisterEverything_2RegisterEverything_8cpp.html" title="lib/CAPI/RegisterEverything\l/RegisterEverything.cpp" alt="" coords="5,199,204,240"/>
+</map>

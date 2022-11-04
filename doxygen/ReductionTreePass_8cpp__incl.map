@@ -1,0 +1,27 @@
+<map id="lib/Reducer/ReductionTreePass.cpp" name="lib/Reducer/ReductionTreePass.cpp">
+<area shape="rect" id="node2" href="$DialectInterface_8h.html" title="mlir/IR/DialectInterface.h" alt="" coords="132,191,317,218"/>
+<area shape="rect" id="node13" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="491,102,654,129"/>
+<area shape="rect" id="node28" href="$Reducer_2Passes_8h.html" title="mlir/Reducer/Passes.h" alt="" coords="1281,102,1445,129"/>
+<area shape="rect" id="node36" href="$ReductionNode_8h.html" title="mlir/Reducer/ReductionNode.h" alt="" coords="2014,273,2233,300"/>
+<area shape="rect" id="node39" href="$Tester_8h.html" title="mlir/Reducer/Tester.h" alt="" coords="2436,348,2595,375"/>
+<area shape="rect" id="node46" href="$ReductionPatternInterface_8h.html" title="mlir/Reducer/ReductionPattern\lInterface.h" alt="" coords="137,95,355,136"/>
+<area shape="rect" id="node47" href="$FrozenRewritePatternSet_8h.html" title="mlir/Rewrite/FrozenRewrite\lPatternSet.h" alt="" coords="1599,184,1795,225"/>
+<area shape="rect" id="node49" href="$GreedyPatternRewriteDriver_8h.html" title="mlir/Transforms/GreedyPattern\lRewriteDriver.h" alt="" coords="1521,95,1742,136"/>
+<area shape="rect" id="node3" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="374,348,537,375"/>
+<area shape="rect" id="node4" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1695,423,1845,449"/>
+<area shape="rect" id="node14" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="509,191,636,218"/>
+<area shape="rect" id="node22" href="$IR_2Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="1076,348,1221,375"/>
+<area shape="rect" id="node15" href="$DialectRegistry_8h.html" title="mlir/IR/DialectRegistry.h" alt="" coords="849,273,1027,300"/>
+<area shape="rect" id="node20" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="669,423,863,449"/>
+<area shape="rect" id="node21" href="$IR_2BuiltinAttributes_8h.html" title="mlir/IR/BuiltinAttributes.h" alt="" coords="954,505,1141,531"/>
+<area shape="rect" id="node23" href="$Block_8h.html" title="mlir/IR/Block.h" alt="" coords="1285,505,1402,531"/>
+<area shape="rect" id="node24" href="$IR_2Diagnostics_8h.html" title="mlir/IR/Diagnostics.h" alt="" coords="887,423,1045,449"/>
+<area shape="rect" id="node25" href="$IR_2Region_8h.html" title="mlir/IR/Region.h" alt="" coords="1330,423,1455,449"/>
+<area shape="rect" id="node29" href="$include_2mlir_2Pass_2Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="1236,191,1363,218"/>
+<area shape="rect" id="node30" href="$AnalysisManager_8h.html" title="mlir/Pass/AnalysisManager.h" alt="" coords="1153,273,1360,300"/>
+<area shape="rect" id="node31" href="$PassRegistry_8h.html" title="mlir/Pass/PassRegistry.h" alt="" coords="647,273,824,300"/>
+<area shape="rect" id="node32" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="1781,348,1985,375"/>
+<area shape="rect" id="node38" href="$OwningOpRef_8h.html" title="mlir/IR/OwningOpRef.h" alt="" coords="2649,505,2817,531"/>
+<area shape="rect" id="node40" href="$BuiltinOps_8h.html" title="mlir/IR/BuiltinOps.h" alt="" coords="2169,423,2317,449"/>
+<area shape="rect" id="node48" href="$PatternMatch_8h.html" title="mlir/IR/PatternMatch.h" alt="" coords="1361,348,1528,375"/>
+</map>

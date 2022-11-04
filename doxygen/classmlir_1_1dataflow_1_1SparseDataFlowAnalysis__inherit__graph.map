@@ -1,0 +1,8 @@
+<map id="mlir::dataflow::SparseDataFlowAnalysis&lt; StateT &gt;" name="mlir::dataflow::SparseDataFlowAnalysis&lt; StateT &gt;">
+<area shape="rect" id="node4" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title="mlir::dataflow::SparseData\lFlowAnalysis\&lt; IntegerValueRange\lLattice \&gt;" alt="" coords="904,5,1149,61"/>
+<area shape="rect" id="node6" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title="mlir::dataflow::SparseData\lFlowAnalysis\&lt; Lattice\&lt;\l ConstantValue \&gt; \&gt;" alt="" coords="929,85,1124,141"/>
+<area shape="rect" id="node2" href="$classmlir_1_1dataflow_1_1AbstractSparseDataFlowAnalysis.html" title="Base class for sparse (forward) data&#45;flow analyses. " alt="" coords="227,53,409,94"/>
+<area shape="rect" id="node3" href="$classmlir_1_1DataFlowAnalysis.html" title="Base class for all data&#45;flow analyses. " alt="" coords="5,60,177,87"/>
+<area shape="rect" id="node5" href="$classmlir_1_1dataflow_1_1IntegerRangeAnalysis.html" title="Integer range analysis determines the integer value range of SSA values using operations that define ..." alt="" coords="1206,13,1413,54"/>
+<area shape="rect" id="node7" href="$classmlir_1_1dataflow_1_1SparseConstantPropagation.html" title="This analysis implements sparse constant propagation, which attempts to determine constant&#45;valued res..." alt="" coords="1199,93,1420,134"/>
+</map>

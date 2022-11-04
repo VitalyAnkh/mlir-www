@@ -1,0 +1,4 @@
+<map id="mlir::Range" name="mlir::Range">
+<area shape="rect" id="node2" href="$classmlir_1_1OpFoldResult.html" title="This class represents a single result from folding an operation. " alt="" coords="11,96,153,123"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; Attribute, Value \&gt;" alt="" coords="5,5,159,47"/>
+</map>

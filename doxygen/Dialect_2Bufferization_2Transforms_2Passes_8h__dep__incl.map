@@ -1,0 +1,13 @@
+<map id="include/mlir/Dialect/Bufferization/Transforms/Passes.h" name="include/mlir/Dialect/Bufferization/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="6,124,203,151"/>
+<area shape="rect" id="node4" href="$AllocTensorElimination_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/AllocTensorElimination.cpp" alt="" coords="227,117,505,158"/>
+<area shape="rect" id="node5" href="$BufferDeallocation_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferDeallocation.cpp" alt="" coords="529,117,779,158"/>
+<area shape="rect" id="node6" href="$Bufferization_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/Bufferize.cpp" alt="" coords="803,117,990,158"/>
+<area shape="rect" id="node7" href="$BufferOptimizations_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferOptimizations.cpp" alt="" coords="1014,117,1273,158"/>
+<area shape="rect" id="node8" href="$BufferResultsToOutParams_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferResultsToOut\lParams.cpp" alt="" coords="1296,109,1521,165"/>
+<area shape="rect" id="node9" href="$DropEquivalentBufferResults_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/DropEquivalentBuffer\lResults.cpp" alt="" coords="1545,109,1787,165"/>
+<area shape="rect" id="node10" href="$EmptyTensorToAllocTensor_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/EmptyTensorToAlloc\lTensor.cpp" alt="" coords="1811,109,2043,165"/>
+<area shape="rect" id="node11" href="$TensorCopyInsertion_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/TensorCopyInsertion.cpp" alt="" coords="2067,117,2329,158"/>
+<area shape="rect" id="node12" href="$SparseTensorPipelines_8cpp.html" title="lib/Dialect/SparseTensor\l/Pipelines/SparseTensorPipelines.cpp" alt="" coords="2353,117,2614,158"/>
+<area shape="rect" id="node3" href="$CAPI_2RegisterEverything_2RegisterEverything_8cpp.html" title="lib/CAPI/RegisterEverything\l/RegisterEverything.cpp" alt="" coords="5,213,204,255"/>
+</map>

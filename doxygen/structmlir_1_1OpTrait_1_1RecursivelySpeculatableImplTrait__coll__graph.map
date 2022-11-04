@@ -1,0 +1,4 @@
+<map id="mlir::OpTrait::RecursivelySpeculatableImplTrait&lt; ConcreteType &gt;" name="mlir::OpTrait::RecursivelySpeculatableImplTrait&lt; ConcreteType &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ConcreteType, RecursivelySpeculatable\lImplTrait \&gt;" alt="" coords="5,124,297,180"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits. " alt="" coords="48,5,255,47"/>
+</map>

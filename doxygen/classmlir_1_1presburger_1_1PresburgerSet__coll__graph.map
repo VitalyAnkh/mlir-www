@@ -1,0 +1,7 @@
+<map id="mlir::presburger::PresburgerSet" name="mlir::presburger::PresburgerSet">
+<area shape="rect" id="node2" href="$classmlir_1_1presburger_1_1PresburgerRelation.html" title="A PresburgerRelation represents a union of IntegerRelations that live in the same PresburgerSpace wit..." alt="" coords="655,43,859,84"/>
+<area shape="rect" id="node3" href="$classmlir_1_1presburger_1_1PresburgerSpace.html" title="PresburgerSpace is the space of all possible values of a tuple of integer valued variables/variables..." alt="" coords="340,5,544,47"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="39,13,120,39"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::presburger::Integer\lRelation, 2 \&gt;" alt="" coords="350,71,534,127"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="5,79,153,120"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="include/mlir/Analysis/Presburger/Fraction.h" name="include/mlir/Analysis/Presburger/Fraction.h">
+<area shape="rect" id="node2" href="$MPInt_8h.html" title="mlir/Analysis/Presburger\l/MPInt.h" alt="" coords="367,95,549,136"/>
+<area shape="rect" id="node4" href="$MathExtras_8h.html" title="mlir/Support/MathExtras.h" alt="" coords="184,273,375,300"/>
+<area shape="rect" id="node3" href="$SlowMPInt_8h.html" title="mlir/Analysis/Presburger\l/SlowMPInt.h" alt="" coords="367,184,549,225"/>
+<area shape="rect" id="node5" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="172,348,323,375"/>
+</map>

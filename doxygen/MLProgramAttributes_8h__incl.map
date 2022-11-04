@@ -1,0 +1,17 @@
+<map id="include/mlir/Dialect/MLProgram/IR/MLProgramAttributes.h" name="include/mlir/Dialect/MLProgram/IR/MLProgramAttributes.h">
+<area shape="rect" id="node2" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="493,191,639,218"/>
+<area shape="rect" id="node32" href="$BuiltinAttributeInterfaces_8h.html" title="mlir/IR/BuiltinAttribute\lInterfaces.h" alt="" coords="973,95,1141,136"/>
+<area shape="rect" id="node3" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="461,273,649,300"/>
+<area shape="rect" id="node4" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="341,572,503,599"/>
+<area shape="rect" id="node18" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="823,497,1055,524"/>
+<area shape="rect" id="node28" href="$IR_2Types_8h.html" title="mlir/IR/Types.h" alt="" coords="956,348,1075,375"/>
+<area shape="rect" id="node5" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1244,729,1395,755"/>
+<area shape="rect" id="node9" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="507,647,670,673"/>
+<area shape="rect" id="node19" href="$InterfaceSupport_8h.html" title="mlir/Support/InterfaceSupport.h" alt="" coords="827,572,1054,599"/>
+<area shape="rect" id="node22" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="1531,647,1735,673"/>
+<area shape="rect" id="node24" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="1082,572,1301,599"/>
+<area shape="rect" id="node29" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="719,423,880,449"/>
+<area shape="rect" id="node33" href="$IR_2AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="1754,572,1901,599"/>
+<area shape="rect" id="node37" href="$BuiltinTypeInterfaces_8h.html" title="mlir/IR/BuiltinTypeInterfaces.h" alt="" coords="1397,191,1615,218"/>
+<area shape="rect" id="node34" href="$IR_2AffineExpr_8h.html" title="mlir/IR/AffineExpr.h" alt="" coords="1810,647,1957,673"/>
+</map>

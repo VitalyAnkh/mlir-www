@@ -1,0 +1,11 @@
+<map id="mlir::DataFlowAnalysis" name="mlir::DataFlowAnalysis">
+<area shape="rect" id="node2" href="$classmlir_1_1dataflow_1_1AbstractDenseDataFlowAnalysis.html" title="Base class for dense data&#45;flow analyses. " alt="" coords="231,19,409,60"/>
+<area shape="rect" id="node4" href="$classmlir_1_1dataflow_1_1AbstractSparseDataFlowAnalysis.html" title="Base class for sparse (forward) data&#45;flow analyses. " alt="" coords="229,109,411,151"/>
+<area shape="rect" id="node10" href="$classmlir_1_1dataflow_1_1DeadCodeAnalysis.html" title="Dead code analysis analyzes control&#45;flow, as understood by RegionBranchOpInterface and BranchOpInterf..." alt="" coords="227,175,413,216"/>
+<area shape="rect" id="node3" href="$classmlir_1_1dataflow_1_1DenseDataFlowAnalysis.html" title="A dense (forward) data&#45;flow analysis for propagating lattices before and after the execution of every..." alt="" coords="465,5,655,47"/>
+<area shape="rect" id="node5" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title="A sparse (forward) data&#45;flow analysis for propagating SSA value lattices across the IR by implementin..." alt="" coords="463,123,657,164"/>
+<area shape="rect" id="node6" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title="mlir::dataflow::SparseData\lFlowAnalysis\&lt; IntegerValueRange\lLattice \&gt;" alt="" coords="908,158,1153,214"/>
+<area shape="rect" id="node8" href="$classmlir_1_1dataflow_1_1SparseDataFlowAnalysis.html" title="mlir::dataflow::SparseData\lFlowAnalysis\&lt; Lattice\&lt;\l ConstantValue \&gt; \&gt;" alt="" coords="933,74,1128,130"/>
+<area shape="rect" id="node7" href="$classmlir_1_1dataflow_1_1IntegerRangeAnalysis.html" title="Integer range analysis determines the integer value range of SSA values using operations that define ..." alt="" coords="1210,165,1417,207"/>
+<area shape="rect" id="node9" href="$classmlir_1_1dataflow_1_1SparseConstantPropagation.html" title="This analysis implements sparse constant propagation, which attempts to determine constant&#45;valued res..." alt="" coords="1203,81,1424,123"/>
+</map>

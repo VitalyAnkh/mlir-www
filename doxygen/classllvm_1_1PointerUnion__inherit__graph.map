@@ -1,0 +1,16 @@
+<map id="llvm::PointerUnion&lt; PT &gt;" name="llvm::PointerUnion&lt; PT &gt;">
+<area shape="rect" id="node2" href="$structmlir_1_1CallInterfaceCallable.html" title="A callable is either a symbol, or an SSA value, that is referenced by a call&#45;like operation..." alt="" coords="435,5,627,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1LLVM_1_1GEPArg.html" title="Class used for building a &#39;llvm.getelementptr&#39;. " alt="" coords="423,71,639,112"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpFoldResult.html" title="This class represents a single result from folding an operation. " alt="" coords="454,136,607,177"/>
+<area shape="rect" id="node5" href="$structmlir_1_1ProgramPoint.html" title="Fundamental IR components are supported as first&#45;class program points. " alt="" coords="443,201,618,272"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; mlir::Attribute, mlir\l::Type \&gt;" alt="" coords="449,297,612,353"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; OpOperand *, Value \&gt;" alt="" coords="441,377,621,419"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; Attribute, Value \&gt;" alt="" coords="454,443,607,484"/>
+<area shape="rect" id="node9" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; SymbolRefAttr, mlir\l::Value \&gt;" alt="" coords="448,509,613,565"/>
+<area shape="rect" id="node10" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; mlir::detail::NestedAnalysis\lMap *, mlir::PassInstrumentor *\&gt;" alt="" coords="412,589,649,645"/>
+<area shape="rect" id="node11" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; Value, GEPConstantIndex \&gt;" alt="" coords="423,669,639,711"/>
+<area shape="rect" id="node12" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; GenericProgramPoint\l *, Operation *, Value,\l Block *\&gt;" alt="" coords="443,735,618,805"/>
+<area shape="rect" id="node13" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; Type, StringAttr \&gt;" alt="" coords="455,829,607,871"/>
+<area shape="rect" id="node14" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; SymbolRefAttr, Value \&gt;" alt="" coords="435,895,626,936"/>
+<area shape="rect" id="node15" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; mlir::ShapedTypeComponents\l *, mlir::Type, mlir::Attribute \&gt;" alt="" coords="415,961,646,1017"/>
+</map>

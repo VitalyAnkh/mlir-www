@@ -1,0 +1,6 @@
+<map id="include/mlir/Dialect/Vector/Transforms/Passes.h" name="include/mlir/Dialect/Vector/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="6,102,203,129"/>
+<area shape="rect" id="node4" href="$Vector_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Vector\l/Transforms/Bufferize.cpp" alt="" coords="227,95,414,136"/>
+<area shape="rect" id="node5" href="$LowerVectorMask_8cpp.html" title="lib/Dialect/Vector\l/Transforms/LowerVectorMask.cpp" alt="" coords="438,95,681,136"/>
+<area shape="rect" id="node3" href="$CAPI_2RegisterEverything_2RegisterEverything_8cpp.html" title="lib/CAPI/RegisterEverything\l/RegisterEverything.cpp" alt="" coords="5,184,204,225"/>
+</map>

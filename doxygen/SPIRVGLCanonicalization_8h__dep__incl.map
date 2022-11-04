@@ -1,0 +1,4 @@
+<map id="include/mlir/Dialect/SPIRV/IR/SPIRVGLCanonicalization.h" name="include/mlir/Dialect/SPIRV/IR/SPIRVGLCanonicalization.h">
+<area shape="rect" id="node2" href="$SPIRVGLCanonicalization_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVGLCanonicalization.cpp" alt="" coords="5,95,220,136"/>
+<area shape="rect" id="node3" href="$CanonicalizeGLPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/CanonicalizeGLPass.cpp" alt="" coords="245,95,450,136"/>
+</map>

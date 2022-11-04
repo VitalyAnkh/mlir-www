@@ -1,0 +1,24 @@
+<map id="include/mlir/Dialect/SPIRV/Transforms/SPIRVConversion.h" name="include/mlir/Dialect/SPIRV/Transforms/SPIRVConversion.h">
+<area shape="rect" id="node2" href="$ArithToSPIRV_8cpp.html" title="lib/Conversion/ArithToSPIRV\l/ArithToSPIRV.cpp" alt="" coords="5,95,207,136"/>
+<area shape="rect" id="node3" href="$ControlFlowToSPIRV_8cpp.html" title="lib/Conversion/ControlFlow\lToSPIRV/ControlFlowToSPIRV.cpp" alt="" coords="231,95,461,136"/>
+<area shape="rect" id="node4" href="$ControlFlowToSPIRVPass_8cpp.html" title="lib/Conversion/ControlFlow\lToSPIRV/ControlFlowToSPIRVPass.cpp" alt="" coords="486,95,747,136"/>
+<area shape="rect" id="node5" href="$FuncToSPIRV_8cpp.html" title="lib/Conversion/FuncToSPIRV\l/FuncToSPIRV.cpp" alt="" coords="771,95,969,136"/>
+<area shape="rect" id="node6" href="$FuncToSPIRVPass_8cpp.html" title="lib/Conversion/FuncToSPIRV\l/FuncToSPIRVPass.cpp" alt="" coords="993,95,1192,136"/>
+<area shape="rect" id="node7" href="$GPUToSPIRV_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/GPUToSPIRV.cpp" alt="" coords="1216,95,1415,136"/>
+<area shape="rect" id="node8" href="$GPUToSPIRVPass_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/GPUToSPIRVPass.cpp" alt="" coords="1439,95,1637,136"/>
+<area shape="rect" id="node9" href="$WmmaOpsToSPIRV_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/WmmaOpsToSPIRV.cpp" alt="" coords="1661,95,1860,136"/>
+<area shape="rect" id="node10" href="$LinalgToSPIRV_8cpp.html" title="lib/Conversion/LinalgToSPIRV\l/LinalgToSPIRV.cpp" alt="" coords="1884,95,2093,136"/>
+<area shape="rect" id="node11" href="$LinalgToSPIRVPass_8cpp.html" title="lib/Conversion/LinalgToSPIRV\l/LinalgToSPIRVPass.cpp" alt="" coords="2117,95,2327,136"/>
+<area shape="rect" id="node12" href="$MathToSPIRV_8cpp.html" title="lib/Conversion/MathToSPIRV\l/MathToSPIRV.cpp" alt="" coords="2351,95,2554,136"/>
+<area shape="rect" id="node13" href="$MathToSPIRVPass_8cpp.html" title="lib/Conversion/MathToSPIRV\l/MathToSPIRVPass.cpp" alt="" coords="2578,95,2781,136"/>
+<area shape="rect" id="node14" href="$MemRefToSPIRV_8cpp.html" title="lib/Conversion/MemRefToSPIRV\l/MemRefToSPIRV.cpp" alt="" coords="2805,95,3028,136"/>
+<area shape="rect" id="node15" href="$MemRefToSPIRVPass_8cpp.html" title="lib/Conversion/MemRefToSPIRV\l/MemRefToSPIRVPass.cpp" alt="" coords="3052,95,3275,136"/>
+<area shape="rect" id="node16" href="$SCFToSPIRV_8cpp.html" title="lib/Conversion/SCFToSPIRV\l/SCFToSPIRV.cpp" alt="" coords="3299,95,3494,136"/>
+<area shape="rect" id="node17" href="$SCFToSPIRVPass_8cpp.html" title="lib/Conversion/SCFToSPIRV\l/SCFToSPIRVPass.cpp" alt="" coords="3518,95,3713,136"/>
+<area shape="rect" id="node18" href="$TensorToSPIRV_8cpp.html" title="lib/Conversion/TensorToSPIRV\l/TensorToSPIRV.cpp" alt="" coords="3737,95,3949,136"/>
+<area shape="rect" id="node19" href="$TensorToSPIRVPass_8cpp.html" title="lib/Conversion/TensorToSPIRV\l/TensorToSPIRVPass.cpp" alt="" coords="3973,95,4185,136"/>
+<area shape="rect" id="node20" href="$VectorToSPIRV_8cpp.html" title="lib/Conversion/VectorToSPIRV\l/VectorToSPIRV.cpp" alt="" coords="4209,95,4419,136"/>
+<area shape="rect" id="node21" href="$VectorToSPIRVPass_8cpp.html" title="lib/Conversion/VectorToSPIRV\l/VectorToSPIRVPass.cpp" alt="" coords="4443,95,4654,136"/>
+<area shape="rect" id="node22" href="$LowerABIAttributesPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/LowerABIAttributesPass.cpp" alt="" coords="4679,95,4885,136"/>
+<area shape="rect" id="node23" href="$SPIRVConversion_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/SPIRVConversion.cpp" alt="" coords="4910,95,5115,136"/>
+</map>

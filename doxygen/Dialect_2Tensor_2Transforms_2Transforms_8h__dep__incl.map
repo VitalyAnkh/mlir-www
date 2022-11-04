@@ -1,0 +1,9 @@
+<map id="include/mlir/Dialect/Tensor/Transforms/Transforms.h" name="include/mlir/Dialect/Tensor/Transforms/Transforms.h">
+<area shape="rect" id="node2" href="$TileUsingInterface_8h.html" title="include/mlir/Dialect\l/SCF/Transforms/TileUsingInterface.h" alt="" coords="103,102,364,143"/>
+<area shape="rect" id="node5" href="$ExtractSliceFromReshapeUtils_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/ExtractSliceFrom\lReshapeUtils.cpp" alt="" coords="388,95,599,151"/>
+<area shape="rect" id="node6" href="$MergeConsecutiveInsertExtractSlicePatterns_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/MergeConsecutive\lInsertExtractSlicePatterns.cpp" alt="" coords="622,95,845,151"/>
+<area shape="rect" id="node7" href="$SplitPaddingPatterns_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/SplitPaddingPatterns.cpp" alt="" coords="869,102,1131,143"/>
+<area shape="rect" id="node8" href="$SwapExtractSliceWithProducerPatterns_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/SwapExtractSlice\lWithProducerPatterns.cpp" alt="" coords="1155,95,1370,151"/>
+<area shape="rect" id="node3" href="$LinalgTransformOps_8cpp.html" title="lib/Dialect/Linalg\l/TransformOps/LinalgTransform\lOps.cpp" alt="" coords="5,199,229,255"/>
+<area shape="rect" id="node4" href="$TileUsingInterface_8cpp.html" title="lib/Dialect/SCF/Transforms\l/TileUsingInterface.cpp" alt="" coords="253,206,445,247"/>
+</map>

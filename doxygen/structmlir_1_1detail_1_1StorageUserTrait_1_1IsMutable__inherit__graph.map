@@ -1,0 +1,4 @@
+<map id="mlir::detail::StorageUserTrait::IsMutable&lt; ConcreteType &gt;" name="mlir::detail::StorageUserTrait::IsMutable&lt; ConcreteType &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1StorageUserTraitBase.html" title="mlir::detail::StorageUser\lTraitBase\&lt; ConcreteType,\l IsMutable \&gt;" alt="" coords="30,124,219,180"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1StorageUserTraitBase.html" title="Helper class for implementing traits for storage classes. " alt="" coords="30,5,219,61"/>
+</map>

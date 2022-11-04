@@ -1,0 +1,6 @@
+<map id="mlir::GenericProgramPoint" name="mlir::GenericProgramPoint">
+<area shape="rect" id="node3" href="$classmlir_1_1GenericProgramPointBase.html" title="mlir::GenericProgramPoint\lBase\&lt; CFGEdge, std::pair\l\&lt; Block *, Block *\&gt; \&gt;" alt="" coords="843,5,1037,61"/>
+<area shape="rect" id="node5" href="$classmlir_1_1GenericProgramPointBase.html" title="Base class for generic program points based on a concrete program point type and a content key..." alt="" coords="456,42,651,83"/>
+<area shape="rect" id="node2" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,13,163,54"/>
+<area shape="rect" id="node4" href="$classmlir_1_1dataflow_1_1CFGEdge.html" title="This program point represents a control&#45;flow edge between a block and one of its successors. " alt="" coords="1087,20,1264,47"/>
+</map>

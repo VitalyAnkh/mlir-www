@@ -1,0 +1,5 @@
+<map id="include/mlir/Dialect/Bufferization/TransformOps/BufferizationTransformOps.h" name="include/mlir/Dialect/Bufferization/TransformOps/BufferizationTransformOps.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="5,124,212,151"/>
+<area shape="rect" id="node4" href="$BufferizationTransformOps_8cpp.html" title="lib/Dialect/Bufferization\l/TransformOps/BufferizationTransform\lOps.cpp" alt="" coords="236,109,504,165"/>
+<area shape="rect" id="node3" href="$CAPI_2RegisterEverything_2RegisterEverything_8cpp.html" title="lib/CAPI/RegisterEverything\l/RegisterEverything.cpp" alt="" coords="9,213,208,255"/>
+</map>

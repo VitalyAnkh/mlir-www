@@ -1,0 +1,6 @@
+<map id="mlir::lsp::CodeAction" name="mlir::lsp::CodeAction">
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::string \&gt;" alt="" coords="407,57,556,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,137,157,164"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::vector\&lt; mlir::lsp\l::Diagnostic \&gt; \&gt;" alt="" coords="407,123,556,179"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; mlir\l::lsp::WorkspaceEdit \&gt;" alt="" coords="397,203,565,245"/>
+</map>

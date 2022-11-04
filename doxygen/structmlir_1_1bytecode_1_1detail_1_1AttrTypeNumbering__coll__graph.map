@@ -1,0 +1,13 @@
+<map id="mlir::bytecode::detail::AttrTypeNumbering" name="mlir::bytecode::detail::AttrTypeNumbering">
+<area shape="rect" id="node2" href="$structmlir_1_1bytecode_1_1detail_1_1DialectNumbering.html" title="This class represents a numbering entry for an Dialect. " alt="" coords="967,174,1129,215"/>
+<area shape="rect" id="node3" href="$classmlir_1_1BytecodeDialectInterface.html" title="mlir::BytecodeDialectInterface" alt="" coords="577,187,798,213"/>
+<area shape="rect" id="node4" href="$classmlir_1_1detail_1_1DialectInterfaceBase.html" title="The base class used for all derived interface types. " alt="" coords="117,166,335,207"/>
+<area shape="rect" id="node5" href="$classBaseT.html" title="BaseT" alt="" coords="5,133,68,160"/>
+<area shape="rect" id="node10" href="$classmlir_1_1detail_1_1DialectInterfaceBase.html" title="The base class used for all derived interface types. " alt="" coords="125,83,327,125"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; mlir\l::AsmDialectResourceHandle \&gt;" alt="" coords="575,295,800,337"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; T,\l Vector, Set \&gt;" alt="" coords="152,295,300,337"/>
+<area shape="rect" id="node9" href="$classmlir_1_1OpAsmDialectInterface.html" title="mlir::OpAsmDialectInterface" alt="" coords="584,85,791,112"/>
+<area shape="rect" id="node11" href="$classunsigned.html" title="unsigned" alt="" coords="647,239,728,265"/>
+<area shape="rect" id="node13" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; mlir::Attribute, mlir\l::Type \&gt;" alt="" coords="967,341,1129,397"/>
+<area shape="rect" id="node14" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; PT \&gt;" alt="" coords="616,361,759,402"/>
+</map>

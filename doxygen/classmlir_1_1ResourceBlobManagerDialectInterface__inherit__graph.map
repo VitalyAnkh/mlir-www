@@ -1,0 +1,5 @@
+<map id="mlir::ResourceBlobManagerDialectInterface" name="mlir::ResourceBlobManagerDialectInterface">
+<area shape="rect" id="node4" href="$classmlir_1_1ResourceBlobManagerDialectInterfaceBase.html" title="This class provides a base class for dialects implementing the resource blob interface. " alt="" coords="5,273,248,315"/>
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1DialectInterfaceBase.html" title="The base class used for all derived interface types. " alt="" coords="13,80,240,136"/>
+<area shape="rect" id="node3" href="$classBaseT.html" title="BaseT" alt="" coords="95,5,158,32"/>
+</map>

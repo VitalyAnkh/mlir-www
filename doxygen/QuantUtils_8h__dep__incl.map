@@ -1,0 +1,8 @@
+<map id="include/mlir/Dialect/Tosa/Utils/QuantUtils.h" name="include/mlir/Dialect/Tosa/Utils/QuantUtils.h">
+<area shape="rect" id="node2" href="$TosaToLinalgNamedPass_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgNamedPass.cpp" alt="" coords="5,95,216,136"/>
+<area shape="rect" id="node3" href="$TosaToLinalgPass_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgPass.cpp" alt="" coords="241,95,442,136"/>
+<area shape="rect" id="node4" href="$TosaCanonicalizations_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaCanonicalizations.cpp" alt="" coords="467,95,664,136"/>
+<area shape="rect" id="node5" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="688,95,827,136"/>
+<area shape="rect" id="node6" href="$TosaMakeBroadcastable_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaMakeBroadcastable.cpp" alt="" coords="851,95,1061,136"/>
+<area shape="rect" id="node7" href="$QuantUtils_8cpp.html" title="lib/Dialect/Tosa/Utils\l/QuantUtils.cpp" alt="" coords="1085,95,1240,136"/>
+</map>

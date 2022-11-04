@@ -1,0 +1,8 @@
+<map id="include/mlir/Dialect/Bufferization/Transforms/BufferViewFlowAnalysis.h" name="include/mlir/Dialect/Bufferization/Transforms/BufferViewFlowAnalysis.h">
+<area shape="rect" id="node2" href="$BufferUtils_8h.html" title="include/mlir/Dialect\l/Bufferization/Transforms\l/BufferUtils.h" alt="" coords="437,109,623,165"/>
+<area shape="rect" id="node7" href="$BufferViewFlowAnalysis_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferViewFlowAnalysis.cpp" alt="" coords="647,117,933,158"/>
+<area shape="rect" id="node3" href="$Arith_2Transforms_2BufferizableOpInterfaceImpl_8cpp.html" title="lib/Dialect/Arith/Transforms\l/BufferizableOpInterfaceImpl.cpp" alt="" coords="5,213,241,255"/>
+<area shape="rect" id="node4" href="$BufferDeallocation_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferDeallocation.cpp" alt="" coords="266,213,517,255"/>
+<area shape="rect" id="node5" href="$BufferOptimizations_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferOptimizations.cpp" alt="" coords="541,213,799,255"/>
+<area shape="rect" id="node6" href="$BufferUtils_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferUtils.cpp" alt="" coords="823,213,1021,255"/>
+</map>
